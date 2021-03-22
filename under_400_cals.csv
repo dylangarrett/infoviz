@@ -1,4 +1,4 @@
-restaurant,num_items,num_items_under_400_cals,pct_items_under_400_cals
+restaurant,num_items,num_items_under_400_cals,percent_items_under_400_cals
 Mcdonalds,58,17,29.310344827586203
 Chick Fil-A,27,14,51.85185185185185
 Sonic,53,12,22.641509433962266
